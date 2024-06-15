@@ -163,26 +163,22 @@ const workExperiences = {
       role: "IT Technician",
       company: "Apex Systems",
       companylogo: require("./assets/images/apex-Logo.webp"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      date: "June 2021 – Present",
+      desc: "Resolved tickets at double the team average (2 per hour). Achieved 90%-100% customer satisfaction. Set up and troubleshot iPhones, Androids, Dell devices, and iOS. Handled issues with Zebra/HP printers and SaaS (M365, MS Office). Used Dameware, WS1, and Active Directory for remote support and account management."
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Full Stack Developer",
+      company: "DevMountain",
+      companylogo: require("./assets/images/DevMtn-Logo-experience.png"),
+      date: "August 2023 - May 2024",
+      desc: "Pulled and organized data from APIs, creating reusable dynamic components with React and Semantic UI for styling. Managed projects using Trello, with a tech stack including React, Redux, NodeJS, JavaScript, Express, Supabase, CSS, and HTML."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Front Desk Supervisor ",
+      company: "PARKS Hpspitality Group",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "April 2018 – June 2021",
+      desc: "Tested new SaaS app developed by PARKS daily. Improved average customer service scores, elevating the hotel to the top 5 in the area for customer satisfaction."
     }
   ]
 };
