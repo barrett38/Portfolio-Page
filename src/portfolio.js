@@ -278,11 +278,24 @@ const achievementSection = {
       subtitle:
         "Completed the Google IT Automation with Python Professional Certificate.",
       image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "PWA Logo",
+      imageAlt: "Google Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://coursera.org/share/c400769ef95e93179aff96e8d93ff24e"
+        }
+      ]
+    },
+    {
+      title: "Using Python to Interact with the Operating System",
+      subtitle:
+        "Completed the Google IT Operating Systems with Python Professional Certificate.",
+      image: require("./assets/images/googleAssistantLogo.webp"),
+      imageAlt: "Google Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://coursera.org/share/6100b9ed9fcbba274a3c0b79b8a24336"
         }
       ]
     }
