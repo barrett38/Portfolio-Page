@@ -395,5 +395,3 @@ export {
   isHireable,
   resumeSection
 };
-
-// Notes
