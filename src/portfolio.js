@@ -395,5 +395,3 @@ export {
   isHireable,
   resumeSection
 };
-
-// Change this file at your own risk
