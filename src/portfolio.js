@@ -152,7 +152,7 @@ const workExperiences = {
   experience: [
     {
       role: "IT Technician",
-      company: "Apex Systems",
+      company: "Tic-Tac-Poke-Toe",
       companylogo: require("./assets/images/ash-pokeball.png"),
       date: "June 2021 – Present",
       desc: "Resolved tickets at double the team average (2 per hour). Achieved 90%-100% customer satisfaction. Set up and troubleshot iPhones, Androids, Dell devices, and iOS. Handled issues with Zebra/HP printers and SaaS (M365, MS Office). Used Dameware, WS1, and Active Directory for remote support and account management."
@@ -160,16 +160,9 @@ const workExperiences = {
     {
       role: "Full Stack Developer",
       company: "DevMountain",
-      companylogo: require("./assets/images/DevMtn-Logo-experience.png"),
+      companylogo: require("./assets/images/pokeBackground.jpg"),
       date: "August 2023 - May 2024",
       desc: "Pulled and organized data from APIs, creating reusable dynamic components with React and Semantic UI for styling. Managed projects using Trello, with a tech stack including React, Redux, NodeJS, JavaScript, Express, Supabase, CSS, and HTML."
-    },
-    {
-      role: "Front Desk Supervisor ",
-      company: "PARKS Hospitality",
-      companylogo: require("./assets/images/parks-hospitality-group2.png"),
-      date: "April 2018 – June 2021",
-      desc: "Improved average customer service scores, elevating the hotel to the top 5 in the area for customer satisfaction. Guided Teammates to help Guests enjoy their stay. Also apart of Beta Testing new SaaS app developed by PARKS daily."
     }
   ]
 };
