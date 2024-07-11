@@ -153,7 +153,7 @@ const workExperiences = {
     {
       role: "IT Technician",
       company: "Apex Systems",
-      companylogo: require("./assets/images/apex-Logo.webp"),
+      companylogo: require("./assets/images/ash-pokeball.png"),
       date: "June 2021 – Present",
       desc: "Resolved tickets at double the team average (2 per hour). Achieved 90%-100% customer satisfaction. Set up and troubleshot iPhones, Androids, Dell devices, and iOS. Handled issues with Zebra/HP printers and SaaS (M365, MS Office). Used Dameware, WS1, and Active Directory for remote support and account management."
     },
