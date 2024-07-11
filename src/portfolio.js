@@ -151,18 +151,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "IT Technician",
+      role: "Playing Tic-Tac-Toe with a Pokemon twist!",
       company: "Tic-Tac-Poke-Toe",
       companylogo: require("./assets/images/ash-pokeball.png"),
-      date: "June 2021 – Present",
-      desc: "Resolved tickets at double the team average (2 per hour). Achieved 90%-100% customer satisfaction. Set up and troubleshot iPhones, Androids, Dell devices, and iOS. Handled issues with Zebra/HP printers and SaaS (M365, MS Office). Used Dameware, WS1, and Active Directory for remote support and account management."
+      // date: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub | Supabase"
+      desc: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub | Supabase"
     },
     {
-      role: "Full Stack Developer",
-      company: "DevMountain",
+      role: "A Pokedex that allows you to search for Pokemon by Stats!",
+      company: "Pokedex",
       companylogo: require("./assets/images/pokeBackground.jpg"),
-      date: "August 2023 - May 2024",
-      desc: "Pulled and organized data from APIs, creating reusable dynamic components with React and Semantic UI for styling. Managed projects using Trello, with a tech stack including React, Redux, NodeJS, JavaScript, Express, Supabase, CSS, and HTML."
+      // date: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
+      desc: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
     }
   ]
 };
@@ -186,7 +186,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://tic-tac-poke-3jvz8hy4b-barretts-projects-1682442b.vercel.app"
+          url: "https://tic-tac-poke-toe.vercel.app"
         }
         //  you can add extra buttons here.
       ]
@@ -198,7 +198,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://capstone-pokedex-lo8k2spo5-barretts-projects-1682442b.vercel.app"
+          url: "https://capstone-pokedex.vercel.app"
         }
       ]
     }
