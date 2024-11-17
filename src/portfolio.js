@@ -163,6 +163,13 @@ const workExperiences = {
       companylogo: require("./assets/images/pokeBackground.jpg"),
       // date: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
       desc: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
+    },
+    {
+      role: "Shows step-by-step instructions on how to pray the Servite Rosary!",
+      company: "The Servite Rosary",
+      companylogo: require("./assets/images/servite.jpg"),
+      // date: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
+      desc: "JavaScript | React | CSS | HTML | Vercel | Pokemon API | Axios | Semantic UI | Git | GitHub"
     }
   ]
 };
@@ -199,6 +206,18 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://capstone-pokedex.vercel.app"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/servite.jpg"),
+      projectName: "Servite Rosary",
+      projectDesc:
+        "Basic steps on how to pray the Servite Rosary. Simplicity is the theme of this project.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://catholic-prayers.vercel.app/"
         }
       ]
     }

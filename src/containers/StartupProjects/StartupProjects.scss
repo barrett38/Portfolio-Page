@@ -4,7 +4,9 @@
   max-width: 100%;
   height: auto;
   width: 250px;
+  border-radius: 10px; /* Add this line */
 }
+
 .card-title {
   color: $titleColor;
   font-size: 22px;
@@ -12,11 +14,13 @@
   font-weight: 700;
   margin: 15px 0 0 0;
 }
+
 .card-subtitle {
   color: $cardSubtitle;
   font-size: 17px;
   line-height: 1.5rem;
 }
+
 .project-card {
   display: flex;
   flex-direction: column;
