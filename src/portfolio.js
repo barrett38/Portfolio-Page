@@ -213,7 +213,7 @@ const bigProjects = {
       image: require("./assets/images/servite.jpg"),
       projectName: "Servite Rosary",
       projectDesc:
-        "Basic steps on how to pray the Servite Rosary. Simplicity is the theme of this quick project.",
+        "Basic steps on how to pray the Servite Rosary. Simplicity is the theme of this project.",
       footerLink: [
         {
           name: "Visit Website",
