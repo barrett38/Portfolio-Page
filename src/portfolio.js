@@ -220,6 +220,18 @@ const bigProjects = {
           url: "https://catholic-prayers.vercel.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/carousel-main.png"),
+      projectName: "Timed Carousel",
+      projectDesc:
+        "Timed Carousel that displays images and text in a timed sequence.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://timed-carousel.vercel.app"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
